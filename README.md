@@ -1,4 +1,4 @@
-# Análise dos dados de Covid 19 pelo mundo
+# Análise dos dados de Covid 19 pelo mundo utilizando o SQL
 
 
 Análise de um conjunto de dados sobre o Covid 19 pelo mundo, fazendo comparações chave para entender melhor o panorama mundial do mundo:
